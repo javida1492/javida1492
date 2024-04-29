@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Andrew Javidfar
 - 🧠 I’m interested in everything coding, but mainly web and mobile application development. 
 - 💻 Current tech stack: 
-  - ReactJS 
-  - GraphQL/Apollo 
-  - Django
+  - React/Remix
+  - Apollo GraphQL 
+  - Python/Django
   - MongoDB
   - PostgresSQL 
 - 📚 AWS is on my bucket list of things to learn.
