@@ -1,12 +1,12 @@
 - 👋 Hi, I’m Andrew Javidfar
-- 🧠 I’m interested in everything coding, but mainly web and mobile application development. 
+- 🧠 I’m interested in everything coding, but mainly full stack web development with a focus on API development & optimization, Microservice development, responsive frontend designs, and scalable distrubuted systems.
 - 💻 Current tech stack: 
-  - React/Remix
-  - Apollo GraphQL 
-  - Python/Django
-  - MongoDB
-  - PostgresSQL 
-- 📚 AWS is on my bucket list of things to learn.
+  - Frontend: React/JavaScript/TypeScript
+  - Backend: NodeJS/GraphQL
+  - Database: SQL(Postgres), NoSQL(MongoDB)
+  - Data layer:
+    -  Python/Django for PSQL ORM
+- Some experience with AWS, Remix, Heroku, and Prisma (SQL ORM)
 - 🤜 I’m looking to collaborate on any open source projects that might provide some user-experience improvements or performance improvements towards web dev ecosystem.
 - 🚲 Outside of coding/work, I am passionate about health and fitness. I love running/trail running, mountain biking, snowboarding, weight lifting, and boxing/mma. 
 - 📫 How to reach me: andrew.javidfar@gmail.com
