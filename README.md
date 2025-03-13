@@ -4,8 +4,8 @@
   - Frontend: React/JavaScript/TypeScript
   - Backend: NodeJS/GraphQL
   - Database: SQL(Postgres), NoSQL(MongoDB)
-  - Data layer:
-    -  Python/Django for PSQL ORM
+  - Data layer: Python/Django for PSQL ORM
+  - Infrastructure: AWS, Datadog, Docker, Github
 - Some experience with AWS, Remix, Heroku, and Prisma (SQL ORM)
 - 🤜 I’m looking to collaborate on any open source projects that might provide some user-experience improvements or performance improvements towards web dev ecosystem.
 - 🚲 Outside of coding/work, I am passionate about health and fitness. I love running/trail running, mountain biking, snowboarding, weight lifting, and boxing/mma. 
